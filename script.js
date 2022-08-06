@@ -45,20 +45,20 @@ fs.writeFileSync('./newReadme/README.md', `## Title
 # ${ans.title}
 
 
-## Description
+# Description
 
-# ${ans.description}
+## ${ans.description}
 
-## Github Username
+# Github Username
 
-# ${ans.github}
+## ${ans.github}
 
 
-## Email
+# Email
 
-# ${ans.email}
+## ${ans.email}
 
-## License
-# ${ans.license}
+# License
+## ${ans.license}
 `)
 })

@@ -1,20 +1,20 @@
 ## Title
 
-# app
+# react-web-portfolio
 
 
-## Description
+# Description
 
-# application
+## this is a portfolio page to display the projects and other work that I've done for employers. 
 
-## Github Username
+# Github Username
 
-# username
+## GhiasFarah
 
 
-## Email
+# Email
 
-# address
+## farah9hias@gmail.com
 
-## License
-# use
+# License
+## none
